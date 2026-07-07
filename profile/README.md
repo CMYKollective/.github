@@ -20,11 +20,11 @@ Developed By: CMYKollective
 
 Led By: Qquash
 
+[![TS Trailer GIF](./ts_trailer.gif)](https://www.youtube.com/watch?v=QLxw7hescxg)
+
 [Discord Server](https://discord.gg/TU9T2t4pW2)
 
 [Announcement Trailer](https://www.youtube.com/watch?v=QLxw7hescxg)
-
-[![TS Trailer GIF](./ts_trailer.gif)](https://www.youtube.com/watch?v=QLxw7hescxg)
 
 ---
 ![APDS Logo](apds.jpg)
@@ -35,23 +35,23 @@ Led By: Qquash
 
 Developed By: Ashleyanna Rivers
 
+[![APDS Trailer GIF](./apds_trailer.gif)](https://www.youtube.com/watch?v=n5fMi9vWgyc)
+
 [Official Itch Release](https://ashleyanna.itch.io/apds)
 
 [Discord Server](https://discord.gg/GedmcRdXBj)
 
 [YouTube Channel](https://www.youtube.com/@ApertureDatingSimulator)
 
-[![APDS Trailer GIF](./apds_trailer.gif)](https://www.youtube.com/watch?v=n5fMi9vWgyc)
-
 ### Aperture Dating Simulator: Double Down *(~2026)*
-
-Developed By: Ashleyanna Rivers
 
 > Ten years before the events of the original game, Aperture continues to struggle financially under the leadership of the - still alive - CEO, Cave Johnson. To combat this, the financial sector comes up with a wild idea... the Aperture Casino & Bar!
 
-[Official Announcement](https://www.youtube.com/watch?v=H8KlihwWseg)
+Developed By: Ashleyanna Rivers
 
 [![APDS DD Trailer GIF](./apds-dd_trailer.gif)](https://www.youtube.com/watch?v=H8KlihwWseg)
+
+[Official Announcement](https://www.youtube.com/watch?v=H8KlihwWseg)
 
 ---
 ![Reliquiae Logo](rq.jpg)
@@ -64,10 +64,10 @@ Developed By: Jar of Dirt
 
 Led By: Hazel Webbs
 
+[![Reliquiae Trailer GIF](./reli_trailer.gif)](https://www.youtube.com/watch?v=6u31ZeMAxKI)
+
 [Discord Server](https://discord.gg/rNMgFdAtGk)
 
 [Steam Page](https://store.steampowered.com/app/3923570/Reliquiae/)
 
 [Pre-Release Trailer](https://www.youtube.com/watch?v=6u31ZeMAxKI)
-
-[![Reliquiae Trailer GIF](./reli_trailer.gif)](https://www.youtube.com/watch?v=6u31ZeMAxKI)
