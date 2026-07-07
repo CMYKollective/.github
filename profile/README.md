@@ -1,5 +1,8 @@
 ![CMYK Logo](full_onblack.png)
-CMYKollective is a publisher prioritizing unqiue and different stories told through unconventional means. Currently, we support four projects, all of which are independently run and managed by individual teams.
+CMYKollective is a publisher prioritizing unique and different stories told through unconventional means. Currently, we support four projects, all of which are independently run and managed by individual teams.
+Most of our work is done within the Source engine or with projects that relate in some way to Source. Many of our members have experience working on projects such as Portal 2: Community Edition and Portal: Revolution.
+CMYKollective specializes in sponsoring interesting and engaging stories that speak for themselves, but provides support in the form of additional resources, asset and trailer creation, and social media management.
+You can see some of our currently-featured projects below.
 
 # Projects
 ![TIMESTALL Logo](timestall.jpg)
