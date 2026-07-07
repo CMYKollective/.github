@@ -16,15 +16,17 @@ You can see some of our currently-featured projects below.
 
 > A brand-new, free modification for Portal 2: Community Edition. Take control of a man who's lost his memory as you venture through a surprisingly vacant facility, mangling the flow of time and space as you do.
 
-Developed By: CMYKollective
+**Developer:** CMYKollective
 
-Led By: Qquash
+**Team Lead:** Qquash
 
 [![TS Trailer GIF](./ts_trailer.gif)](https://www.youtube.com/watch?v=QLxw7hescxg)
 
 [Discord Server](https://discord.gg/TU9T2t4pW2)
 
 [Announcement Trailer](https://www.youtube.com/watch?v=QLxw7hescxg)
+
+
 
 ---
 ![APDS Logo](apds.jpg)
@@ -33,7 +35,7 @@ Led By: Qquash
 
 > APDS is a comedy, a tragedy, a romance - all three if you're dumb enough. It's 7 different genres cosplaying as a visual novel. Choose your date from 7 different unique personality cores.
 
-Developed By: Ashleyanna Rivers
+**Developer:** Ashleyanna Rivers
 
 [![APDS Trailer GIF](./apds_trailer.gif)](https://www.youtube.com/watch?v=n5fMi9vWgyc)
 
@@ -47,10 +49,6 @@ Developed By: Ashleyanna Rivers
 
 > Ten years before the events of the original game, Aperture continues to struggle financially under the leadership of the - still alive - CEO, Cave Johnson. To combat this, the financial sector comes up with a wild idea... the Aperture Casino & Bar!
 
-Developed By: Ashleyanna Rivers
-
-[![APDS DD Trailer GIF](./apds-dd_trailer.gif)](https://www.youtube.com/watch?v=H8KlihwWseg)
-
 [Official Announcement](https://www.youtube.com/watch?v=H8KlihwWseg)
 
 ---
@@ -60,9 +58,10 @@ Developed By: Ashleyanna Rivers
 
 > You are awoken as the last test subject in an unknown part of the facility. You follow your "testing track" through offices, run-down storage areas, and abandoned puzzles - but the AI says this route is your intended one...
 
-Developed By: Jar of Dirt
+**Developer:** Jar of Dirt
 
-Led By: Hazel Webbs
+**Leads:** Hazel Webbs, Ashleyanna Rivers
+
 
 [![Reliquiae Trailer GIF](./reli_trailer.gif)](https://www.youtube.com/watch?v=6u31ZeMAxKI)
 
