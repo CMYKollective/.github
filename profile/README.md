@@ -17,6 +17,7 @@ You can see some of our currently-featured projects below.
 > A brand-new, free modification for Portal 2: Community Edition. Take control of a man who's lost his memory as you venture through a surprisingly vacant facility, mangling the flow of time and space as you do.
 
 Developed By: CMYKollective
+
 Led By: Qquash
 
 [Discord Server](https://discord.gg/TU9T2t4pW2)
@@ -60,6 +61,7 @@ Developed By: Ashleyanna Rivers
 > You are awoken as the last test subject in an unknown part of the facility. You follow your "testing track" through offices, run-down storage areas, and abandoned puzzles - but the AI says this route is your intended one...
 
 Developed By: Jar of Dirt
+
 Led By: Hazel Webbs
 
 [Discord Server](https://discord.gg/rNMgFdAtGk)
